@@ -1,4 +1,10 @@
-### Hi there 👋
+### Retrouvez nos formations sur :
+
+[https://formation.tech/](https://formation.tech/)
+
+### Besoin d'un développeur ?
+
+[https://wearedevs.fr/](https://wearedevs.fr/)
 
 <!--
 **bioub/bioub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
